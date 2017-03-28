@@ -1,4 +1,4 @@
-PYTHON := python
+PYTHON := python2
 MD5 := md5sum -c --quiet
 
 VERSION = 2.2.0
